@@ -24,7 +24,6 @@ Thông qua phân tích dữ liệu và machine learning, dự án cung cấp cá
 - `part3_ML.ipynb`: Xây dựng và đánh giá mô hình LightGBM cho dự báo doanh thu và COGS
 - `EDA_dashboard.py`: Ứng dụng Streamlit dashboard trực quan hóa các insight chính
 - `submission.csv`: Kết quả dự báo cho Kaggle
-- `requirements.txt`: Danh sách thư viện cần cài đặt
 - `README.md`: Tổng quan dự án
 
 ---
